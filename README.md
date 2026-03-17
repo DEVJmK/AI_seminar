@@ -43,9 +43,12 @@ Focused on studying core machine learning concepts and deep learning architectur
 ### Training & Optimization
 
 * Stochastic Gradient Descent (SGD)
-* Adam
+* method of momentum
+* Nesterov momentum
+* AdaGrad
 * RMSProp
-
+* Adam
+  
 ---
 
 ## Seminar Materials
